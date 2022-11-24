@@ -60,6 +60,7 @@ public class Lambda01 {
         printCiftOtzBykFunctional(sayi); //34 22 16 35 20 63 65 44 66 64 81 38
         System.out.println("\n  ***   ");
         //yeni satır
+        //
 
     }
     // Task : "Structured Programming" kullanarak list elemanlarını aynı satırda aralarında boşluk olacak şekilde print ediniz.
